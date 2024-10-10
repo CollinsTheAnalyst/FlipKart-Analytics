@@ -14,7 +14,7 @@ This project uncovers hidden trends in Flipkart's 2023 sales, return behaviors, 
 Data cleaning focused on ensuring consistent formatting and identifying missing values. Outliers were examined for potential trends, and the final dataset was made robust, representing accurate insights into sales, returns, and customer behavior.
 
 ## **Analysis**
-You can check out the dashboard and insights derived from the data here: [here](#).
+You can check out the dashboard and insights derived from the data here: [here](https://public.tableau.com/app/profile/collins.kimathi/viz/FlipKartProject/SalesandProfitability).
 
 ## **Recommendations**
 Based on these insights, we suggest the following strategies to enhance Flipkart’s performance:
@@ -41,5 +41,5 @@ Based on these insights, we suggest the following strategies to enhance Flipkart
 By implementing these data-driven recommendations, Flipkart can optimize sales, increase profitability, reduce returns, and enhance customer retention. Focusing on product quality, refining discount strategies, and expanding geographically will position the company for greater success in 2024 and beyond.
 
 ## **Project Archives**
-- **Dashboards**: Check out the full story and the dashboards [here](#).
-- **Data**: Get all the project data [here](#).
+- **Dashboards**: Check out the full story and the dashboards [here](https://public.tableau.com/app/profile/collins.kimathi/viz/FlipKartProject/SalesandProfitability).
+- **Data**: Get all the project data above.
